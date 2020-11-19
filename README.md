@@ -6,6 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="GabrielNicutari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GabrielNicutari | Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][discord]
 
 <br />
 
@@ -25,12 +26,6 @@
 <br />
 <br />
 
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
 
 [linkedin]: https://www.linkedin.com/in/gabriel-nicutari-82a270192/
+[discord]: https://discordapp.com/users/462977538604400642/
