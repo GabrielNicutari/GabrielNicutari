@@ -1,8 +1,9 @@
-### Hello, there! I am Gabriel, a Computer Science student from KEA - Copenhagen.
+### Hello, there, I am Gabriel! 
 
-##
-- 👯 I'm actively looking for job opportunities in both backend and frontend development.
-
+## I am a Computer Science student from KEA - Copenhagen
+- 🔭 Currently working on the server side of an [eCommerce Web Application][e-store].
+- 🌱 Seeking to brush up on my current knowledge and expand upon it.
+- 👯 Actively looking for job opportunities in both backend and frontend development.
 
 ### Connect with me:
 
@@ -37,12 +38,6 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/GabrielNicutari/KinoXP/pull/2) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
-2. 💪 Opened PR [#2](https://github.com/GabrielNicutari/KinoXP/pull/2) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
-3. 🎉 Merged PR [#8](https://github.com/ithai5/KinoXP/pull/8) in [ithai5/KinoXP](https://github.com/ithai5/KinoXP)
-4. 💪 Opened PR [#8](https://github.com/ithai5/KinoXP/pull/8) in [ithai5/KinoXP](https://github.com/ithai5/KinoXP)
-5. 🎉 Merged PR [#1](https://github.com/GabrielNicutari/KinoXP/pull/1) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
-<!--END_SECTION:activity-->
 
 
 <img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true" />
@@ -50,3 +45,4 @@
 
 [linkedin]: https://www.linkedin.com/in/gabriel-nicutari-82a270192/
 [discord]: https://discordapp.com/users/462977538604400642/
+[e-store]: https://github.com/GabrielNicutari/E-Store
