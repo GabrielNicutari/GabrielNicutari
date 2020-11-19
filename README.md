@@ -11,10 +11,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="30px" src="https://icon-library.com/images/java-icon-png/java-icon-png-2.jpg" />
+<img align="left" alt="Java" width="30px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
+<img align="left" alt="Spring" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_K5_S6MDApkQ-jfChAWwy_iyWn-Nl-DhbA&usqp=CAU" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+
+
+
 
 <br />
 <br />
