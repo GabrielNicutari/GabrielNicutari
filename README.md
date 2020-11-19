@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="IntelliJ" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
+<img align="left" alt="IntelliJ" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
 <img align="left" alt="WebStorm" width="30px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png" />
 <img align="left" alt="Java" width="32px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
 <img align="left" alt="Spring" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_K5_S6MDApkQ-jfChAWwy_iyWn-Nl-DhbA&usqp=CAU" />
@@ -28,10 +28,13 @@
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <img align="left" alt="GitKraken" width="32px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" />
 
+
 <br />
 <br />
 
 ---
+
+<img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/gabriel-nicutari-82a270192/
