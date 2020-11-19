@@ -11,6 +11,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="IntelliJ" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
