@@ -41,6 +41,12 @@
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/GabrielNicutari/KinoXP/pull/2) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
+2. 💪 Opened PR [#2](https://github.com/GabrielNicutari/KinoXP/pull/2) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
+3. 🎉 Merged PR [#8](https://github.com/ithai5/KinoXP/pull/8) in [ithai5/KinoXP](https://github.com/ithai5/KinoXP)
+4. 💪 Opened PR [#8](https://github.com/ithai5/KinoXP/pull/8) in [ithai5/KinoXP](https://github.com/ithai5/KinoXP)
+5. 🎉 Merged PR [#1](https://github.com/GabrielNicutari/KinoXP/pull/1) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
+<!--END_SECTION:activity-->
 
 
 <img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true" />
