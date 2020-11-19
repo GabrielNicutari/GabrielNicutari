@@ -39,6 +39,9 @@
 <br />
 
 ---
+<details>
+
+<summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/GabrielNicutari/KinoXP/pull/2) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
@@ -48,6 +51,7 @@
 5. 🎉 Merged PR [#1](https://github.com/GabrielNicutari/KinoXP/pull/1) in [GabrielNicutari/KinoXP](https://github.com/GabrielNicutari/KinoXP)
 <!--END_SECTION:activity-->
 
+</details>
 
 <img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true" />
 
