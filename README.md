@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="GabrielNicutari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GabrielNicutari | Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />][discord]
+[<img align="left" alt="GabrielNicutari | Discord" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />][discord]
 
 <br />
 
