@@ -1,8 +1,9 @@
-### Hello, there, I am Gabriel! 
+### Hello, there, I am Gabriel! 👋
 
-## I am a Computer Science student from KEA - Copenhagen
+## I am a Computer Science student from KEA - Copenhagen.
+
 - 🔭 Currently working on the server side of an [eCommerce Web Application][e-store].
-- 🌱 Seeking to brush up on my current knowledge and expand upon it.
+- 🌱 Always seeking to brush up on my current knowledge and also expand upon it.
 - 👯 Actively looking for job opportunities in both backend and frontend development.
 
 ### Connect with me:
