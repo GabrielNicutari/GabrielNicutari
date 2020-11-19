@@ -36,7 +36,11 @@
 
 ---
 
-<img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true&theme=dracula" />
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/gabriel-nicutari-82a270192/
