@@ -6,6 +6,8 @@
 - 🌱 Always seeking to brush up on my current knowledge and also expand upon it.
 - 👯 Actively looking for job opportunities in both backend and frontend development.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="GabrielNicutari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
