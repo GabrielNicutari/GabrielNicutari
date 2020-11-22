@@ -35,7 +35,6 @@
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <img align="left" alt="GitKraken" width="32px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" />
 
-
 <br />
 <br />
 
