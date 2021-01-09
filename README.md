@@ -42,6 +42,9 @@
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/GabrielNicutari/WBYC_Web-Client/pull/1) in [GabrielNicutari/WBYC_Web-Client](https://github.com/GabrielNicutari/WBYC_Web-Client)
+2. 💪 Opened PR [#1](https://github.com/GabrielNicutari/WBYC_Web-Client/pull/1) in [GabrielNicutari/WBYC_Web-Client](https://github.com/GabrielNicutari/WBYC_Web-Client)
+<!--END_SECTION:activity-->
 
 
 <img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true" />
