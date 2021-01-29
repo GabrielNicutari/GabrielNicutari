@@ -2,7 +2,7 @@
 
 ## I am a Computer Science student from KEA - Copenhagen.
 
-- 🔭 Currently working on the server side of an [eCommerce Web Application][e-store].
+- 🔭 Currently working on the [server side][wbyc-server] and [client-side][wbyc-client]of a web shop application.
 - 🌱 Always seeking to brush up on my current knowledge and also expand upon it.
 - 👯 Actively looking for job opportunities in both backend and frontend development.
 
@@ -52,4 +52,5 @@
 
 [linkedin]: https://www.linkedin.com/in/gabriel-nicutari-82a270192/
 [discord]: https://discordapp.com/users/462977538604400642/
-[e-store]: https://github.com/GabrielNicutari/E-Store
+[wbyc-server]: https://github.com/CristianOu/WBYC_Web-Server
+[wbyc-client]: https://github.com/GabrielNicutari/WBYC_Web-Client
