@@ -2,7 +2,7 @@
 
 ## I am a Computer Science student from KEA - Copenhagen.
 
-- 🔭 Currently working on the [server side][wbyc-server] and [client-side][wbyc-client] of a web shop application.
+- 🔭 Currently working on the [server-side][wbyc-server] and [client-side][wbyc-client] of a web shop application.
 - 🌱 Always seeking to brush up on my current knowledge and also expand upon it.
 - 👯 Actively looking for job opportunities in both backend and frontend development.
 
