@@ -33,7 +33,7 @@
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <img align="left" alt="GitKraken" width="32px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" />
 <img align="left" alt="Jenkins" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
-<img align="left" alt="AWS" width="32px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" />
+<img align="left" alt="AWS" width="32px" src="https://interactor.com/autoflow/wp-content/uploads/sites/2/2020/11/aws.png" />
 
 <br />
 <br />
