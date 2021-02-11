@@ -32,19 +32,13 @@
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 <img align="left" alt="GitKraken" width="32px" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" />
-<img align="left" alt="Jenkins" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" alt="Jenkins" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" alt="AWS" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
 
 <br />
 <br />
 
 ---
-
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GabrielNicutari/WBYC_Web-Client/pull/1) in [GabrielNicutari/WBYC_Web-Client](https://github.com/GabrielNicutari/WBYC_Web-Client)
-2. 💪 Opened PR [#1](https://github.com/GabrielNicutari/WBYC_Web-Client/pull/1) in [GabrielNicutari/WBYC_Web-Client](https://github.com/GabrielNicutari/WBYC_Web-Client)
-<!--END_SECTION:activity-->
-
 
 <img allign="left" alt="GabrielNicutari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GabrielNicutari&show_icons=true" />
 
