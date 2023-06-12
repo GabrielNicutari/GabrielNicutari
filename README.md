@@ -3,8 +3,8 @@
 ## I am a Software Development student from KEA - Copenhagen.
 
 - 🌱 Always seeking to brush up on my current knowledge and also expanding upon it.
-- 👯 Actively looking for job opportunities in backendfrontend development.
-
+<!-- - 👯 Actively looking for job opportunities in backendfrontend development.
+ -->
 ---
 
 ### Connect with me:
